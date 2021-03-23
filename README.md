@@ -1,0 +1,3 @@
+# Essentiel du JavaScript
+
+Avec Damien Bruyndonckx, lancez-vous dans JavaScript, le langage de programmation pour pages web interactives et pour serveurs le plus utilisé au monde. Après un tour d'horizon des notions et des prérequis, votre formateur entrera dans le vif du sujet avec les données, les boucles, les conditions, les fonctions et les objets. Vous aborderez des cas concrets, avec la création et l'animation d'une galerie de photos puis, la formation se terminera sur l'intégration de jQuery et des bibliothèques, ainsi que les bonnes pratiques pour créer du code de qualité. À la fin de cette formation, vous aurez construit une base solide pour utiliser et approfondir vos connaissances sur JavaScript.
