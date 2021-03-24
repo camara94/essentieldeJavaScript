@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+        <title>JavaScript à éviter</title>
+	</head>
+	<body>
+	<h1>JavaScript à éviter: #2</h1>
+        <p>"eval() is evil !"</p>
+	<script>
+		var a = "alert('";
+		var b = "Bonjour le monde";
+		var c = "');";
+		
+		
+		// maintenant, on utilise eval() pour combiner et exécuter du code dynamiquement
+		eval(a + b + c);
+	
+	
+	</script>
+	
+	
+	</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+        <title>JavaScript à éviter</title>
+	</head>
+	<body>
+    
+    <h1>JavaScript à éviter: #1</h1>
+    
+    <p>Dans cette page, nous allons explorer l'usage de document.write()</p>
+	
+	<script>
+    document.write("Ceci est du texte simple. ");
+	
+    
+    
+    function simpleFunction() {
+		// Essayons de placer document.write ici
+		document.write("Cool! Je peux même inclure des <strong>balises HTML!</strong>");
+    }
+    
+    window.onload = function () {
+        setTimeout(simpleFunction, 2000);
+	};
+	
+    
+	</script>
+	
+	
+	</body>
+</html>
